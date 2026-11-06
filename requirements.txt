@@ -1,0 +1,10 @@
+streamlit
+catboost
+pandas
+numpy
+requests
+pystac-client
+planetary-computer
+odc-stac
+matplotlib
+scikit-learn
